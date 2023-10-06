@@ -1,5 +1,3 @@
-Here are some suggested grammar fixes for the information security policy:
-
 # Information Security Policy
 
 ## Policy Statement
@@ -15,6 +13,10 @@ As with all Carbonik policies, failure of Carbonik personnel to follow the polic
 ## Ownership and Administration
 
 This Information Security Policy is owned and administered by the Carbonik DevOps Team.
+
+## Implementation and Monitoring
+
+The DevOps team shall setup periodic tasks to monitor the implementation of following policies where applicable.
 
 ## Applicability
 
